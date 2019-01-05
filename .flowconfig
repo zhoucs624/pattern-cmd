@@ -1,0 +1,10 @@
+[ignore]
+.*/node_modules/.*
+.*/test/.*
+.*/draw.io/.*
+.*/scripts/.*
+
+[include]
+
+[libs]
+flow
