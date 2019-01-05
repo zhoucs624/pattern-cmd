@@ -1,0 +1,33 @@
+{
+  "name": "pattern-cmd",
+  "version": "0.1.0",
+  "description": "The way of communication based on the design pattern of command",
+  "main": "index.js",
+  "typings": "types/index.d.ts",
+  "files": [
+    "src",
+    "dist/*.js",
+    "types/*.d.ts"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoucs624/pattern-cmd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoucs624/pattern-cmd/issues"
+  },
+  "homepage": "https://github.com/zhoucs624/pattern-cmd#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.0",
+    "eslint-plugin-flowtype": "^3.2.0",
+    "flow-bin": "^0.89.0"
+  }
+}
