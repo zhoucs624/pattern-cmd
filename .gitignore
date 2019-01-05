@@ -6,3 +6,16 @@ node_modules
 # Generated files
 .psci
 output
+
+# testing
+/coverage
+
+# misc
+.DC_Store
+
+# npm
+npm-debug.log*
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
